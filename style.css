@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.big{
+    width:25vw;
+    height:28vh;
+    position: absolute;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: green;
+    right:0;
+}
+.box3{
+    background-color: blue;
+    bottom: 0;
+}
+.box4{
+    background-color: yellow;
+    bottom: 0;
+    right: 0;
+}
+.small{
+    position: absolute;
+    height: 6vh;
+    width: 5vw;
+}
+.box5{
+    background-color: red;
+    top: 28vh;
+    left:25vw
+}
+.box6{
+    background-color: green;
+    top:28vh;
+    right: 25vw;
+}
+.box7 {
+    background-color: blue;
+    bottom: 28vh;
+    left: 25vw;
+}
+.box8 {
+    background-color: yellow;
+    bottom: 28vh;
+    right: 25vw;
+}
+.box9 {
+    background-color: pink;
+    top: 47vh;
+    left: 47.5vw;
+}
